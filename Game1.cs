@@ -32,7 +32,12 @@ namespace Town_Guard
             _spriteBatch = new SpriteBatch(GraphicsDevice);
 
             // TODO: use this.Content to load your game content here
+            //Loads Texture from Content Manager
             _texture = Content.Load<Texture2D>("Knight");
+            
+            //loads sprite on screen at top left
+            _position = new Vector2(0,0);
+
         }
 
         protected override void Update(GameTime gameTime)
@@ -50,6 +55,12 @@ namespace Town_Guard
             GraphicsDevice.Clear(Color.CornflowerBlue);
 
             // TODO: Add your drawing code here
+            //Adding sprites to batch
+            spriteBatch.Begin();
+
+            spriteBatch.Draw(_texture, _position, Color.White);
+            
+            spriteBatch.End();
 
             base.Draw(gameTime);
         }
