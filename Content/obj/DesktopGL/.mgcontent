@@ -4,9 +4,11 @@
   <Platform>DesktopGL</Platform>
   <Config />
   <SourceFiles>
-    <File>/home/jinn/Town Guard/Content/Knight.png</File>
+    <File>/home/jinn/Town Guard/Town-Guard/Content/Knight.png</File>
+    <File>/home/jinn/Town Guard/Town-Guard/Content/Sorcerer walk frames.png</File>
   </SourceFiles>
   <DestFiles>
+    <File xsi:nil="true" />
     <File xsi:nil="true" />
   </DestFiles>
 </SourceFileCollection>

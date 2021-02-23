@@ -45,3 +45,4 @@
 /home/jinn/Town Guard/Town-Guard/obj/Debug/netcoreapp3.1/Town Guard.dll
 /home/jinn/Town Guard/Town-Guard/obj/Debug/netcoreapp3.1/Town Guard.pdb
 /home/jinn/Town Guard/Town-Guard/obj/Debug/netcoreapp3.1/Town Guard.genruntimeconfig.cache
+/home/jinn/Town Guard/Town-Guard/bin/Debug/netcoreapp3.1/Content/Sorcerer walk frames.xnb

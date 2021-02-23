@@ -46,6 +46,22 @@ namespace Town_Guard
                 Exit();
 
             // TODO: Add your update logic here
+            if (Keyboard.GetState().IsKeyDown(Keys.W))
+            {
+                _position.Y -= 1;
+            }
+            if (Keyboard.GetState().IsKeyDown(Keys.S))
+            {
+                _position.Y += 1;
+            }
+            if (Keyboard.GetState().IsKeyDown(Keys.A))
+            {
+                _position.X -= 1;
+            }
+            if (Keyboard.GetState().IsKeyDown(Keys.D))
+            {
+                _position.X += 1;
+            }
 
             base.Update(gameTime);
         }
@@ -56,11 +72,11 @@ namespace Town_Guard
 
             // TODO: Add your drawing code here
             //Adding sprites to batch
-            spriteBatch.Begin();
+            _spriteBatch.Begin();
 
-            spriteBatch.Draw(_texture, _position, Color.White);
+            _spriteBatch.Draw(_texture, _position, Color.White);
             
-            spriteBatch.End();
+            _spriteBatch.End();
 
             base.Draw(gameTime);
         }

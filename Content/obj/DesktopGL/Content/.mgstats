@@ -1,2 +1,3 @@
 Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
 "/home/jinn/Town Guard/Town-Guard/Content/Knight.png","/home/jinn/Town Guard/Town-Guard/Content/bin/DesktopGL/Content/Knight.xnb","TextureProcessor","Texture2DContent",336,1621,0.237926
+"/home/jinn/Town Guard/Town-Guard/Content/Sorcerer walk frames.png","/home/jinn/Town Guard/Town-Guard/Content/bin/DesktopGL/Content/Sorcerer walk frames.xnb","TextureProcessor","Texture2DContent",732,6229,0.2139503
