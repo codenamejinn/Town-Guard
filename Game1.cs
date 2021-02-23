@@ -12,17 +12,21 @@ namespace Town_Guard
 //Start the 2D stuff tex2d allows for draw vector2 is for 2d position of sprite.
         private Texture2D _texture;
         private Vector2 _position;
-
+        int width = 800;
+        int height = 600;
         public Game1()
         {
             _graphics = new GraphicsDeviceManager(this);
             Content.RootDirectory = "Content";
             IsMouseVisible = true;
         }
-
         protected override void Initialize()
         {
             // TODO: Add your initialization logic here
+          _graphics.PreferredBackBufferWidth = width;
+          _graphics.PreferredBackBufferHeight = height;
+          _graphics.ApplyChanges();
+
 
             base.Initialize();
         }
@@ -60,7 +64,7 @@ namespace Town_Guard
             }
             if (Keyboard.GetState().IsKeyDown(Keys.D))
             {
-                _position.X += 1;
+                _position.X +=1;
             }
 
             base.Update(gameTime);
