@@ -9,6 +9,10 @@ namespace Town_Guard
         private GraphicsDeviceManager _graphics;
         private SpriteBatch _spriteBatch;
 
+//Start the 2D stuff tex2d allows for draw vector2 is for 2d position of sprite.
+        private Texture2D _texture;
+        private Vector2 _position;
+
         public Game1()
         {
             _graphics = new GraphicsDeviceManager(this);
@@ -28,6 +32,7 @@ namespace Town_Guard
             _spriteBatch = new SpriteBatch(GraphicsDevice);
 
             // TODO: use this.Content to load your game content here
+            _texture = Content.Load<Texture2D>("Knight");
         }
 
         protected override void Update(GameTime gameTime)
