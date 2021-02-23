@@ -21,3 +21,27 @@
 /home/jinn/Town Guard/obj/Debug/netcoreapp3.1/Town Guard.dll
 /home/jinn/Town Guard/obj/Debug/netcoreapp3.1/Town Guard.pdb
 /home/jinn/Town Guard/obj/Debug/netcoreapp3.1/Town Guard.genruntimeconfig.cache
+/home/jinn/Town Guard/Town-Guard/bin/Debug/netcoreapp3.1/Content/Knight.xnb
+/home/jinn/Town Guard/Town-Guard/bin/Debug/netcoreapp3.1/Town Guard
+/home/jinn/Town Guard/Town-Guard/bin/Debug/netcoreapp3.1/Town Guard.deps.json
+/home/jinn/Town Guard/Town-Guard/bin/Debug/netcoreapp3.1/Town Guard.runtimeconfig.json
+/home/jinn/Town Guard/Town-Guard/bin/Debug/netcoreapp3.1/Town Guard.runtimeconfig.dev.json
+/home/jinn/Town Guard/Town-Guard/bin/Debug/netcoreapp3.1/Town Guard.dll
+/home/jinn/Town Guard/Town-Guard/bin/Debug/netcoreapp3.1/Town Guard.pdb
+/home/jinn/Town Guard/Town-Guard/bin/Debug/netcoreapp3.1/MonoGame.Framework.dll
+/home/jinn/Town Guard/Town-Guard/bin/Debug/netcoreapp3.1/runtimes/linux-x64/native/libSDL2-2.0.so.0
+/home/jinn/Town Guard/Town-Guard/bin/Debug/netcoreapp3.1/runtimes/linux-x64/native/libopenal.so.1
+/home/jinn/Town Guard/Town-Guard/bin/Debug/netcoreapp3.1/runtimes/osx/native/libSDL2-2.0.0.dylib
+/home/jinn/Town Guard/Town-Guard/bin/Debug/netcoreapp3.1/runtimes/osx/native/libopenal.1.dylib
+/home/jinn/Town Guard/Town-Guard/bin/Debug/netcoreapp3.1/runtimes/win-x64/native/SDL2.dll
+/home/jinn/Town Guard/Town-Guard/bin/Debug/netcoreapp3.1/runtimes/win-x64/native/soft_oal.dll
+/home/jinn/Town Guard/Town-Guard/bin/Debug/netcoreapp3.1/runtimes/win-x86/native/SDL2.dll
+/home/jinn/Town Guard/Town-Guard/bin/Debug/netcoreapp3.1/runtimes/win-x86/native/soft_oal.dll
+/home/jinn/Town Guard/Town-Guard/obj/Debug/netcoreapp3.1/Town Guard.csprojAssemblyReference.cache
+/home/jinn/Town Guard/Town-Guard/obj/Debug/netcoreapp3.1/Town Guard.AssemblyInfoInputs.cache
+/home/jinn/Town Guard/Town-Guard/obj/Debug/netcoreapp3.1/Town Guard.AssemblyInfo.cs
+/home/jinn/Town Guard/Town-Guard/obj/Debug/netcoreapp3.1/Town Guard.csproj.CoreCompileInputs.cache
+/home/jinn/Town Guard/Town-Guard/obj/Debug/netcoreapp3.1/Town Guard.csproj.CopyComplete
+/home/jinn/Town Guard/Town-Guard/obj/Debug/netcoreapp3.1/Town Guard.dll
+/home/jinn/Town Guard/Town-Guard/obj/Debug/netcoreapp3.1/Town Guard.pdb
+/home/jinn/Town Guard/Town-Guard/obj/Debug/netcoreapp3.1/Town Guard.genruntimeconfig.cache

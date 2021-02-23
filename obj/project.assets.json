@@ -179,11 +179,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/jinn/Town Guard/Town Guard.csproj",
+      "projectUniqueName": "/home/jinn/Town Guard/Town-Guard/Town Guard.csproj",
       "projectName": "Town Guard",
-      "projectPath": "/home/jinn/Town Guard/Town Guard.csproj",
+      "projectPath": "/home/jinn/Town Guard/Town-Guard/Town Guard.csproj",
       "packagesPath": "/home/jinn/.nuget/packages/",
-      "outputPath": "/home/jinn/Town Guard/obj/",
+      "outputPath": "/home/jinn/Town Guard/Town-Guard/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/jinn/.nuget/NuGet/NuGet.Config"

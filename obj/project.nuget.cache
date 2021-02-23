@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "OqcIAXiAGHpZEULXiv+7h9fOatyGTX8UA2jSoaMCbUl2GCuhM+owyDV27W/r3USHS4DYVsfk8rEM0zzejlpmww==",
+  "dgSpecHash": "QdiLJRGEboKC6VEE7fh0UqR5e7SRcTLb5UPa127ZXx3I+sm9NvnCxovZ3eLTXwoFlzOzFvophFHccCgWiMtXYQ==",
   "success": true,
-  "projectFilePath": "/home/jinn/Town Guard/Town Guard.csproj",
+  "projectFilePath": "/home/jinn/Town Guard/Town-Guard/Town Guard.csproj",
   "expectedPackageFiles": [
     "/home/jinn/.nuget/packages/monogame.content.builder.task/3.8.0.1641/monogame.content.builder.task.3.8.0.1641.nupkg.sha512",
     "/home/jinn/.nuget/packages/monogame.framework.desktopgl/3.8.0.1641/monogame.framework.desktopgl.3.8.0.1641.nupkg.sha512"
