@@ -12,8 +12,8 @@ namespace Town_Guard
 //Start the 2D stuff tex2d allows for draw vector2 is for 2d position of sprite.
         private Texture2D _texture;
         private Vector2 _position;
-        int width = 800;
-        int height = 600;
+        int width = 1366;
+        int height = 768;
         public Game1()
         {
             _graphics = new GraphicsDeviceManager(this);
